@@ -10,6 +10,16 @@ public class Chiken extends FoodItem {
 		this.category = Category.MAINCOURSE;
 		this.type = Type.NONVEG;
 		this.name="Chiken";
-	}	
+		
+		
+	}
+
+//	@Override
+//	public String toString() {
+//		return "Chiken [taste=" + taste + ", price=" + price + ", type=" + type + ", category=" + category + ", name="
+//				+ name + "]";
+//	}
+
+		
 	
 }

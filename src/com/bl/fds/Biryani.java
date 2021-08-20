@@ -6,5 +6,15 @@ public class Biryani extends FoodItem {
 		this.category = Category.MAINCOURSE;
 		this.type = Type.VEG;
 		this.name="Biryani";
+		
+		
 	}
+
+//	@Override
+//	public String toString() {
+//		return "Biryani [taste=" + taste + ", price=" + price + ", type=" + type + ", category=" + category + ", name="
+//				+ name + "]";
+//	}
+
+	
 }
